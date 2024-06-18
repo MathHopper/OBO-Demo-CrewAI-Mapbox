@@ -111,7 +111,7 @@ def nestor():
             'result': result, 
             'lat': lat,
             'lon': lon,
-            'displayHistory':displayHistory
+            'displayHistory':0
         }
         )
 
